@@ -1,4 +1,4 @@
-# jsfmesgtype
+jsfmesgtype
 
 A utility that will parse and count the number of message types that are
 within an Edgetech .jsf sonar data file as described in the
@@ -13,3 +13,4 @@ jsfmesgtype should compile on most *nix based systems.
 This software is in the Public Domain
 
 TFO
+
