@@ -1,5 +1,5 @@
 # jsfmesgtype
-Parse and list the message types of an Edgetech sonar .jsf file.
+
 A utility that will parse and count the number of message types that are
 within an Edgetech .jsf sonar data file as described in the
 Edgetech .JSF DATA FILE FORMAT User Software Manual 
